@@ -26,6 +26,8 @@ I am a **web developer** currently enrolled at TripleTen and an **aspiring game 
 #### Web Development
 - A "mood board" for game designers where they can easily communicate concepts and "vibes" to collaborate with artists and build a community. Pictures and music will be the primary function. A 3D model viewer would be a nice challenge to implement. A robust GDD (Game Design Document) display will help your team and your community hold you accountable to your projects.
 
+- A store where you can both make a QR code for your website, github, linkedin, social media, etc.. and get a shirt made out of it to get peoples' attention. Imagine a shirt with no context but a QR code with a github icon in the middle. You'd be sure capture the attention of software engineers and get the conversation going. Maybe you're a hot IG influencer; Same concept.
+
 #### Game Development
 - [Red Orbit](#): You and your crew are stranded accross several moons vibrant with exotic environments and life. You discover the moons are interconnected by a portal system made by an ancient civilization, once a hub for the galaxy. It's original engineers, the Xyntarians, have lost knowledge of its operation due to amnesia and catastrophe. You find yourself responsible for saving your crew as well as the lunar civilizations that orbit Matrima.
   
