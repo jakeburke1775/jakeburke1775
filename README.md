@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## About Me
-I am a **web developer** currently enrolled at TripleTen and a **hobbyist game developer**. I have a passion for creating interactive experiences and learning new technologies.
+I am a **web developer** currently enrolled at TripleTen. I am also a **hobbyist game developer**. I have a passion for creating interactive experiences and learning new technologies.
 
 ## Web Development Skills
 - **HTML/CSS**: Building and styling web pages
