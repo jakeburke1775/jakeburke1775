@@ -16,6 +16,9 @@ I am a **web developer** currently enrolled at TripleTen. I am also a **hobbyist
 
 ## EXISTING PROJECTS
 #### Web Development with TripleTen
+collaborations:
+- [Sh3lter(temporary name)](#): a collab with a team during a code jame! 
+
 - [Spots](#): A social media image sharing website. Edit your profile and add/remove photos.
 - [Coffee Shop](#): A landing page for a coffee shop. 
 
