@@ -16,15 +16,15 @@ I am a **web developer** currently enrolled at TripleTen. I am also a **hobbyist
 
 ## EXISTING PROJECTS
 #### Web Development with TripleTen
-Code Jam!:
-- [Sh3lter(temporary name)](#): a collab with a team during a code jame! 
+Code Jam/Collaborative projects:
+- [Sh3lter](https://00h00w.github.io/CodeJamJanuary/): a collaboration with a team (Code Heros) during a code jam for TripleTen. I was mostly responsible for the styling and responsiveness of the landing page. As an HTML/CSS developer at the time, style is not just all I had to offer, but I am confident I did it well with my natural artistry.
 
 My own projects:
-- [Spots](#): A social media image sharing website. Edit your profile and add/remove photos.
+- [Spots](https://jakeburke1775.github.io/se_project_spots/): A social media image sharing website. Edit your profile and add/remove photos.
 - [Coffee Shop](#): A landing page for a coffee shop. 
 
 #### Game Development
-- [Cody Chameleon](#): You are a color changing lizard trying to stay away from scary creatures and moving platforms. 
+- [Cody Chameleon](https://jakeburke1775.github.io/CodyChameleon/): You are a color changing lizard trying to stay away from scary creatures and moving platforms. 
 
 ## Future Projects
 #### Web Development
