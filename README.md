@@ -24,7 +24,7 @@ My own projects:
 - [Coffee Shop](#): A landing page for a coffee shop. 
 
 #### Game Development
-- [Cody Chameleon](#): You are a color changing lizard just trying to stay away from scary creatures and moving platforms. 
+- [Cody Chameleon](#): You are a color changing lizard trying to stay away from scary creatures and moving platforms. 
 
 ## Future Projects
 #### Web Development
@@ -35,7 +35,7 @@ My own projects:
 
 - A store where you can both make a QR code for your website, github, linkedin, social media, etc.. and get a shirt made out of it to get peoples' attention. Imagine a shirt with no context but a QR code with a github icon in the middle. You'd be sure capture the attention of software engineers and get the conversation going. Maybe you're a hot IG influencer; Same concept.
 
-- A new construction management tool: BuildPro, the competition, is used by top builders like DR Horton and Lennar. It aims to automate construction management but falls short due to outdated systems and heavy user input requirements. With nearly a decade of experience using it, I believe a modern replacement could transform the real estate market. Builders currently manage 15-40 homes, but with AI, improved server management, and integrated email systems, they could manage 90-140 homes, with top performers handling over 200. This change could save companies millions, create new blue-collar and software jobs, and significantly improve efficiency.
+- A new construction management tool: BuildPro, the competition, is used by top builders like DR Horton and Lennar. It aims to automate construction management but falls short due to outdated systems and heavy user input requirements. With nearly a decade of experience using it, I believe a modern replacement is due. Builders currently manage 15-40 homes, but with AI, improved server management, and integrated email systems, they could manage 90-140 homes alone, with top performers handling over 200. This change could save companies millions a year.
 
 #### Game Development
 - [Red Orbit](#): You and your crew are stranded accross several moons vibrant with exotic environments and life. You discover the moons are interconnected by a portal system made by an ancient civilization, once a hub for the galaxy. It's original engineers, the Xyntarians, have lost knowledge of its operation due to amnesia and catastrophe. You find yourself responsible for saving your crew as well as the lunar civilizations that orbit Matrima.
