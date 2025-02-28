@@ -33,8 +33,6 @@ My own projects:
   
 - A "mood board" for game designers where they can easily communicate concepts and "vibes" to collaborate with artists and build a community. Pictures and music will be the primary function. A 3D model viewer would be a nice challenge to implement. A robust GDD (Game Design Document) display will help your team and your community hold you accountable to your projects.
 
-- A store where you can both make a QR code for your website, github, linkedin, social media, etc.. and get a shirt made out of it to get peoples' attention. Imagine a shirt with no context but a QR code with a github icon in the middle. You'd be sure capture the attention of software engineers and get the conversation going. Maybe you're a hot IG influencer; Same concept.
-
 - A new construction management tool: BuildPro, the competition, is used by top builders like DR Horton and Lennar. It aims to automate construction management but falls short due to outdated systems and heavy user input requirements. With nearly a decade of experience using it, I believe a modern replacement is due. Builders currently manage 15-40 homes, but with AI, improved server management, and integrated email systems, they could manage 90-140 homes alone, with top performers handling over 200. This change could save companies millions a year.
 
 #### Game Development
