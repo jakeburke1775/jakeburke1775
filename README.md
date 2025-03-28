@@ -12,7 +12,7 @@ I am a **web developer** currently enrolled at TripleTen. I am also a **hobbyist
 
 ## Game Development Skills
 - **GML (GameMaker Language)**: Developing games with a pinch of experience
-- **Pixel Art**: The art page is on its way. I also have a mood board page idea you can read about below.
+- **Pixel Art**: The art page is on its way. I also have a mood board page idea inbound.
 
 ## EXISTING PROJECTS
 #### Web Development with TripleTen
