@@ -5,7 +5,7 @@ Aspiring Software Engineer | Construction Manager | Entrepreneur
 ---
 
 ## About Me 🙋‍♂️
-- [My homepage]((https://jakeburke1775.github.io/homepage/))🏠
+[My homepage](https://jakeburke1775.github.io/homepage/) 🏠
 
 I am a **Web Developer** currently enrolled at TripleTen. I am also a **Construction Manager** and an **Entrepreneur**.  
 I have a passion for creating interactive experiences and learning new technologies.
