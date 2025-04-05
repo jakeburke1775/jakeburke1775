@@ -32,8 +32,8 @@ I have a passion for creating interactive experiences and learning new technolog
   Organized JavaScript into manageable objects using classes.
 
 #### Solo Projects:
-- [My homepage]((https://jakeburke1775.github.io/homepage/))🏠
-  navigate my ronge of services to offer with more ease.
+- [My homepage](https://jakeburke1775.github.io/homepage/) 🏠
+  navigate my range of services to offer with more ease.
 - [Cody Chameleon](https://jakeburke1775.github.io/CodyChameleon/) 🦎  
   A stylish container for my prototype platformer.  
 - [Inspection Router](https://jakeburke1775.github.io/inspflow/) 📝  
