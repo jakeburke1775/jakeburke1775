@@ -5,7 +5,7 @@ Aspiring Software Engineer | Construction Manager | Entrepreneur
 ---
 
 ## About Me 🙋‍♂️
-- [My homepage]([https://jakeburke1775.github.io/CodyChameleon/](https://jakeburke1775.github.io/homepage/))🏠
+- [My homepage]((https://jakeburke1775.github.io/homepage/))🏠
 
 I am a **Web Developer** currently enrolled at TripleTen. I am also a **Construction Manager** and an **Entrepreneur**.  
 I have a passion for creating interactive experiences and learning new technologies.
@@ -32,7 +32,7 @@ I have a passion for creating interactive experiences and learning new technolog
   Organized JavaScript into manageable objects using classes.
 
 #### Solo Projects:
-- [My homepage]([https://jakeburke1775.github.io/CodyChameleon/](https://jakeburke1775.github.io/homepage/))🏠
+- [My homepage]((https://jakeburke1775.github.io/homepage/))🏠
   navigate my ronge of services to offer with more ease.
 - [Cody Chameleon](https://jakeburke1775.github.io/CodyChameleon/) 🦎  
   A stylish container for my prototype platformer.  
