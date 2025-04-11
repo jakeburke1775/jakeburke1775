@@ -59,7 +59,3 @@ I have a passion for creating interactive experiences and learning new technolog
 
 ## Contact 📧
 Feel free to reach out via email at [jakeburke1775@gmail.com](mailto:jakeburke1775@gmail.com) or connect on [LinkedIn](#).
-
----
-
-Feel free to tweak the emojis or sections! Let me know if you'd like further adjustments. 😊
